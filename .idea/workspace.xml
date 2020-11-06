@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f132081f-e38c-4496-8dbc-5e6169dfd388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM/.idea/DAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/.idea/DAM2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/algorithms/consistency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/algorithms/g_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/algorithms/integrity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/algorithms/redundancy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/algorithms/table_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/data_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/quality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/blueprints/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/gunicorn.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/pms_linux.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAM2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Quality Assess/TestSimHash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/.idea/New_Tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/Test_MPL_Inter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/Test_Threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/Test_tkinter_plt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/test_tkinter_plt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Tests/test_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMS_Yaochuang/.idea/PMS_Yaochuang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMS_Yaochuang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMS_Yaochuang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMS_Yaochuang/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMS_Yaochuang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/.idea/SoftWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/Tabu_Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/Visualization_Frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftWork/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/.idea/Tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/AllCities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/ForPY2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Group_Col_Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/anhui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/beijing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/chongqing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/fujian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/gansu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/guangdong.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/guangxi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/guizhou.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/hainan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/hebei.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/heilongjiang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/henan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/hongkong.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/hubei.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/hunan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/jiangsu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/jiangxi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/jilin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/liaoning.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/macau.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/neimenggu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/ningxia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/qinghai.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/shan1xi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/shan3xi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/shandong.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/shanghai.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/sichuan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/taiwan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/tianjin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/xinjiang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/xizang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/yunnan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/JSON_Maps/zhejiang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Materials/ERPInfo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Materials/ERP_Result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Materials/TSP_Distance.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TSP_ILS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TSP_SA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TSP_TS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestCurve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestDll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestERP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestFlask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestGUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestHash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestMap1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestMap2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestMatplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/TestZZXCF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Test_Dijkstar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/Test_Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/ZhuangShiQi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/anhui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/coutries_gac.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/liaoning.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/matplotlib-3.0.2-cp36-cp36m-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/table_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/test_matplotlib_inter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/testalchemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/testexecutesql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/testjson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/testlv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/testsocketio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/alien_invasion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/alien_invasion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/alien_invasion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/game_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/images/alien.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/pygame-1.9.4-cp36-cp36m-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alien_invasion/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber/.idea/demo_kuber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/.idea/demo_kuber2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_kuber2/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM/blueprints/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM/blueprints/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Quality Assess/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Quality Assess/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tests/Test_Oracle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tests/Test_Oracle.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled2" type="Python.FlaskServer">
+      <module name="untitled2" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f132081f-e38c-4496-8dbc-5e6169dfd388" name="Default Changelist" comment="" />
+      <created>1576560435193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576560435193</updated>
+      <workItem from="1576560485605" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
